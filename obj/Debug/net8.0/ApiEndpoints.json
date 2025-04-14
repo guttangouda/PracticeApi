@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "WebApplication1.Controllers.UserController",
+    "Method": "Post",
+    "RelativePath": "api/User",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "WebApplication1.Modules.User",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
